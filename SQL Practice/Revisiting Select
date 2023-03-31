@@ -1,0 +1,23 @@
+I. Revising the Select Query 1
+
+Query all columns for all American cities in CITY with populations larger than 100000. The CountryCode for America is USA.
+
+SELECT * FROM CITY WHERE COUNTRYCODE = ‘USA’ AND POPULATION > 100000;
+
+II. Revising the Select Query 2
+
+Query the names of all American cities in CITY with populations larger than 120000. The CountryCode for America is USA.
+
+SELECT NAME FROM CITY WHERE COUNTRYCODE = ‘USA’ AND POPULATION > 120000;
+
+III. Select All
+
+Query all columns (attributes) for every row in the CITY table.
+
+SELECT * FROM CITY;
+
+IV. Select By ID
+
+Query all columns for a city in CITY with the ID 1661.
+
+SELECT * FROM CITY WHERE ID = 1661;

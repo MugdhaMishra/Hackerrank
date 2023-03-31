@@ -10,4 +10,4 @@ This repository contains MySQL solutions of the HackerRank-SQL-Intermediate-Cert
 ![Customer Spending-1](https://user-images.githubusercontent.com/27827295/154382638-452d9fdb-d2e8-4a1b-b485-4de0a4df8a2f.png)
 
 ### Here is the certificate I got using the solutions
-![sql-inter-certificate](8e2a24c40edd)
+![sql-inter-certificate](https://www.hackerrank.com/certificates/8e2a24c40edd)
